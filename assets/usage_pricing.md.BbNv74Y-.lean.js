@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t,a2 as s}from"./chunks/framework.CSd21wiM.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"usage/pricing.md","filePath":"usage/pricing.md"}'),r={name:"usage/pricing.md"},o=s("",11),n=[o];function i(l,p,c,u,d,h){return t(),a("div",null,n)}const f=e(r,[["render",i]]);export{_ as __pageData,f as default};

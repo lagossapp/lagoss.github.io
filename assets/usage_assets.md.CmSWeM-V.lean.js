@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as i,a2 as e}from"./chunks/framework.CSd21wiM.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"usage/assets.md","filePath":"usage/assets.md"}'),t={name:"usage/assets.md"},n=e("",13),l=[n];function p(h,o,c,d,r,k){return i(),a("div",null,l)}const y=s(t,[["render",p]]);export{u as __pageData,y as default};
